@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "username": "gesi",
+            "password": "$2b$12$rfsFbXidLicGDu/4t0m9Mudk.xkj2XoLglEUxKvyUMEVrJwrcK/oS",
+            "role": "rider"
+        },
+        {
+            "username": "gerald",
+            "password": "$2b$12$Ye1cUKOieAZr44tp1TnkNefMIJFVhhbAfUctQP8GwGa1JUkmHXvKe",
+            "role": "driver"
+        },
+        {
+            "username": "hi",
+            "password": "$2b$12$QSYKZtwz/cjX2rkLC8FCM.WIK/mHTO7Bk8sT/muIf1gBkuBN/L/4e",
+            "role": "rider"
+        },
+        {
+            "username": "m",
+            "password": "$2b$12$ySvXklXXxv/hh941IPTkRel/JcgSQ9DLLtn9VKT/LwSmqTSe6VUVy",
+            "role": "driver"
+        },
+        {
+            "username": "ebdeh",
+            "password": "$2b$12$9WfZO41RSq8HUu0eqmbDmOwbVaJl106EafsnhKdoggkOUzsLBTtli",
+            "role": "efe"
+        }
+    ]
+}
